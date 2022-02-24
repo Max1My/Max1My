@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm a beginner python developer
 
 
-### Skills
+### ⚒Skills
 
 #### Back-End
 
