@@ -9,10 +9,15 @@
 ![Javascript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
 ![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django)
 ![jQuery](https://img.shields.io/badge/jQuery-000000?style=for-the-badge&logo=jquery)
+![DjangoRestFramework](https://img.shields.io/badge/djangorestframework-000000?style=for-the-badge&logo=djangorestframework)
+
+#### Front-end
+![Boostrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap)
 
 #### Databases
 
 ![Mysql](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql)
+![PosgreSQL](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql)
 
 #### Tools
 
