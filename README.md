@@ -1,4 +1,4 @@
-### Hi there 👋 I'm a beginner python developer
+### Hi there 👋 I'm python developer
 
 
 ### ⚒Skills
