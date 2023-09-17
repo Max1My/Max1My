@@ -10,6 +10,8 @@
 ![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django)
 ![jQuery](https://img.shields.io/badge/jQuery-000000?style=for-the-badge&logo=jquery)
 ![DjangoRestFramework](https://img.shields.io/badge/djangorestframework-000000?style=for-the-badge&logo=djangorestframework)
+![FastAPI](https://img.shields.io/badge/fastapi-000000?style=for-the-badge&logo=fastapi)
+![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-000000?style=for-the-badge&logo=sqlalchemy)
 
 #### Front-end
 ![Boostrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap)
