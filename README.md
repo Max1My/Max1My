@@ -12,6 +12,7 @@
 ![DjangoRestFramework](https://img.shields.io/badge/djangorestframework-000000?style=for-the-badge&logo=djangorestframework)
 ![FastAPI](https://img.shields.io/badge/fastapi-000000?style=for-the-badge&logo=fastapi)
 ![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-000000?style=for-the-badge&logo=sqlalchemy)
+![GoLang](https://img.shields.io/badge/go-000000?style=for-the-badge&logo=go)
 
 #### Front-end
 ![Boostrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap)
